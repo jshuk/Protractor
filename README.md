@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Protractor [![Build Status](https://travis-ci.org/angular/protractor.svg?branch=master)](https://travis-ci.org/angular/protractor) [![CircleCI Status](https://circleci.com/gh/angular/protractor.svg?style=shield)](https://circleci.com/gh/angular/protractor) [![Join the chat at https://gitter.im/angular/protractor](https://badges.gitter.im/angular/protractor.svg)](https://gitter.im/angular/protractor)
 ==========
 
@@ -35,3 +36,6 @@ Please ask usage and debugging questions on [StackOverflow](http://stackoverflow
 For Contributors
 ----------------
 See [DEVELOPER.md](https://github.com/angular/protractor/blob/master/DEVELOPER.md)
+=======
+# Protractor
+>>>>>>> branch 'master' of https://github.com/jshuk/Protractor.git
