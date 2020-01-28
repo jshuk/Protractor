@@ -3,7 +3,7 @@ describe("Example",function(){
 	var obj = require("./pageobjects.js")
 	beforeEach(function(){
 			obj.getURL()
-			browser.manage().window().maximize()
+			//browser.manage().window().maximize()
 		    browser.waitForAngularEnabled(false)
 		})
 	it("Fucntion1",function(){
