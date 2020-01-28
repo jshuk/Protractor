@@ -12,12 +12,12 @@ exports.config = {
   // to protractor (in this example conf.js).
   // They may include glob patterns.
   //specs: ['actionaDemo.js'],
-  specs: ['PracticeExample.js'],
-  onPrepare :function(){
+  specs: ['PracticeExample.js']
+  /*onPrepare :function(){
 	  browser.driver.manage().window().maximize();
 	  jasmine.getEnv().addReporter(new Jasmine2HtmlReporter({
 		  savePath: 'target/screenshots'
 	  }))
-  }
+  }*/
  
 };
