@@ -2,7 +2,7 @@ describe("Example",function(){
 	var using = require('jasmine-data-provider');
 	var obj = require("./pageobjects.js");
 	var d = require("./data.js");
-	
+	var Jasmine2HtmlReporter = require('protractor-jasmine2-html-reporter');
 	
 	
 	beforeEach(function(){
